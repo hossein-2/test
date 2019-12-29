@@ -1,5 +1,3 @@
-confronting the conflict
-
 <html>
 <body>
 Hello World
@@ -8,4 +6,4 @@ Hello World
 </html>
 
 
-i want to make a conflict.
+confronting is settled!
